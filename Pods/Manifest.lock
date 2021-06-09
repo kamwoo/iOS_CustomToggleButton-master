@@ -1,0 +1,20 @@
+PODS:
+  - SwipeCellKit (2.7.1)
+  - ViewAnimator (3.0.2)
+
+DEPENDENCIES:
+  - SwipeCellKit
+  - ViewAnimator
+
+SPEC REPOS:
+  trunk:
+    - SwipeCellKit
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+  ViewAnimator: 16435576cd44fca0b0d63147d5031fd3e91d295a
+
+PODFILE CHECKSUM: ab374262193b6d077d5f6f3717f8cc818dc3eac1
+
+COCOAPODS: 1.10.1
